@@ -1,0 +1,6 @@
+[submodule "adam"]
+	path = adam
+	url = https://github.com/bigdatagenomics/adam
+[submodule "cannoli"]
+	path = cannoli
+	url = https://github.com/bigdatagenomics/cannoli
